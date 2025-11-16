@@ -1,0 +1,29 @@
+# Comandos Git mais básicos
+
+git init — Inicia um repositório Git na pasta.
+
+git clone <URL> — Clona um repositório do GitHub.
+
+git status — Mostra o status dos arquivos (modificados, novos, etc.).
+
+git add . — Adiciona todos os arquivos para o commit.
+
+git add <arquivo> — Adiciona um arquivo específico.
+
+git commit -m "mensagem" — Cria um commit com mensagem.
+
+git push — Envia as alterações para o GitHub.
+
+git pull — Baixa as alterações do GitHub.
+
+git branch — Lista as branches.
+
+git checkout <branch> — Muda de branch.
+
+git checkout -b <branch> — Cria e troca para uma nova branch.
+
+git log — Mostra o histórico de commits.
+
+git remote -v — Exibe os repositórios remotos configurados.
+
+git rm <arquivo> — Remove um arquivo do repositório.
