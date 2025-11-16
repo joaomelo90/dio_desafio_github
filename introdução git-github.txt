@@ -1,4 +1,4 @@
-# Comandos Git mais básicos
+#Comandos Git
 
 git init — Inicia um repositório Git na pasta.
 
